@@ -8,8 +8,6 @@ import { MENU_LIST } from "../../assets/configs/MENU_LIST";
 import { Outlet, useNavigate } from "react-router-dom";
 import { Menu } from "../../assets/configs/CONSTANT";
 
-
-
 const listStyle = {
   border: "1px solid #000",
 };
@@ -28,7 +26,7 @@ const Main = () => {
           minWidth: 200,
           width: "10vw",
           background: "#24292e",
-          color: "#FFF"
+          color: "#FFF",
         }}
       >
         <nav aria-label="main mailbox folders">

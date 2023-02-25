@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const TransactionsList = () => {
-  return (
-    <div>TransactionsList</div>
-  )
-}
+  return <div>TransactionsList</div>;
+};
 
-export default TransactionsList
+export default TransactionsList;

@@ -7,7 +7,7 @@ import { ApiResponseBodyBase } from './response-base';
  *
  * @author Charlie
  */
-export type SH1APIOPE115RequestBody = ApiRequestBodyBase
+export type SH1APIOPE115RequestBody = ApiRequestBodyBase;
 
 /**
  * API ID: SH1APIOPE115。

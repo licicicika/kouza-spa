@@ -1,10 +1,10 @@
 {
-  "inStandby": 1,
-  "inHand": 1,
-  "inPostTreatment": 1,
-  "inLeave1": 1,
-  "inLeave2": 1,
-  "inLeave3": 1,
+  "inStandby": 99999,
+  "inHand": 99999,
+  "inPostTreatment": 99999,
+  "inLeave1": 99999,
+  "inLeave2": 99999,
+  "inLeave3": 99999,
   "operatorList": [
     {
       "operatorID": "XXX00001",

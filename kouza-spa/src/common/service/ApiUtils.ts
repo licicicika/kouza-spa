@@ -11,6 +11,7 @@ export const getApi = async (apiIds: string, param: any) => {
     data: param,
   };
 
+  // 发起请求为前端异步 操作 async/await
   const response = await axios(request);
 
   return response;

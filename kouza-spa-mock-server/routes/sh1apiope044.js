@@ -191,7 +191,7 @@ router
         }
         break;
       default:
-        jsonServer.receiveNormalData(res, 'sh1apiope044/normal/2-1-1.json');
+        jsonServer.receiveUnencryptData(res, 'sh1apiope044/normal/2-1-1.json');
       // jsonServer.receiveNormalData(res, 'sh1apiope044/normal/4-1-2.json');
       // jsonServer.receiveNormalData(res, 'sh1apiope044/normal/4-1-3.json');
       // jsonServer.receiveNormalData(res, 'sh1apiope044/normal/4-1-4.json');
